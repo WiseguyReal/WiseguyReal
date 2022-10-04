@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseguyReal)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Wiseguy</h1>
 <h3 align="center">I like making games and animations. I can use python and I'm currently learning Java and Linux! I do not have a social media as of the moment but I will soon!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiseuyreal&label=Profile%20views&color=0e75b6&style=flat" alt="wiseuyreal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiseuyreal" alt="wiseuyreal" /></a> </p>
 
 - ⚡ Fun fact **I am very cool 😎**
 
@@ -21,3 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiseuyreal&show_icons=true&locale=en&layout=compact" alt="wiseuyreal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiseuyreal&show_icons=true&locale=en" alt="wiseuyreal" /></p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiseguyReal)](https://github.com/anuraghazra/github-readme-stats)
