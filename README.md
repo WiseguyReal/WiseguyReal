@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Wiseguy</h1>
-<h3 align="center">I like making games and animations. I can use python and I'm currently learning Java and Linux! I do not have a social media as of the moment but I will soon!</h3>
+<h3 align="center">I like making games and animations. I can use python and I'm currently learning Java and Javascript! I do not have a social media as of the moment but I will soon!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiseuyreal&label=Profile%20views&color=0e75b6&style=flat" alt="wiseuyreal" /> </p>
 
